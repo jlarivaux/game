@@ -1,3 +1,5 @@
-This is the readme file for my games. 
+This is a collection of playable games from an online course. 
 
-We are going to create multiple games to be coding samples for Airbnb
+Games are fully functional and able to be played.
+
+Enjoy!
